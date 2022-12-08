@@ -1,0 +1,16 @@
+const str= ' El tiempo asi como cura tambien acaba con todo :V';
+console.log("Split con espacio");
+console.log("frase:", str);
+const words = str.split(' ');
+console.log("longitud: ", words.length);
+console.log(words[1]);
+console.log(words[2]);
+console.log(words[3]);
+console.log(words[4]);
+console.log(words[5]);
+console.log(words[6]);
+console.log(words[7]);
+console.log(words[8]);
+console.log(words[9]);
+console.log(words[10]);
+console.log(words[11]);
